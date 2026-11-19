@@ -35,3 +35,12 @@
 **Arquivos alterados**
 - Criados: `web-design/tapa-de-ux/SKILL.md`, `web-design/tapa-de-ux/LICENSE.txt`, `web-design/tapa-de-ux/regras/*.md` (10 arquivos)
 - Editados: `web-design/README.md` (nova linha na tabela, contagem 10 → 11), `README.md` (contagem), `LOG.md`
+
+## 2026-11-19 10:24 (America/Sao_Paulo) — publicação no GitHub
+
+**O que foi feito**
+- Enviado o repositório local para `github.com/EVELYN-MENEGATTE/skills-gabitsdesign` (branch `main`, privado), com os commits 116478b e 196a597.
+- A partir de agora, os loaders do Claude usam este repo como espelho quando o GitHub original falhar.
+
+**Arquivos alterados**
+- Editado: `LOG.md` (esta entrada)
