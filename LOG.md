@@ -24,3 +24,14 @@
 - `web-design/README.md` (tabela com fonte, commit e licença)
 - `web-design/<10 pastas de skill>/**` (2.365 arquivos no total, ~57 MB; maior pasta: taste-skill, 40 MB)
 - `web-design/_loaders/<7 pastas>/SKILL.md`
+
+## 2026-11-19 10:22 (America/Sao_Paulo) — adicionada a skill tapa-de-ux
+
+**O que foi feito**
+- Adicionada `web-design/tapa-de-ux/` ← othiagopinheiro/tapa-de-ux @ 555bd87, versão em português (`plugins/tapa-de-ux/skills/tapa-de-ux`). 70 verificações de UX em 10 assuntos, cada uma com fonte. Licença CC-BY-4.0 (atribuição a Thiago Pinheiro).
+- Não incluída a versão em inglês (`tapa-de-ux-en`): o próprio autor recomenda instalar uma língua só, para a revisão não aparecer duplicada.
+- Instalação no Claude: enviado o ZIP oficial do autor (`dist/tapa-de-ux.zip`) para upload direto em Customize → Skills, com todas as regras embutidas (sem precisar baixar do GitHub na hora do uso).
+
+**Arquivos alterados**
+- Criados: `web-design/tapa-de-ux/SKILL.md`, `web-design/tapa-de-ux/LICENSE.txt`, `web-design/tapa-de-ux/regras/*.md` (10 arquivos)
+- Editados: `web-design/README.md` (nova linha na tabela, contagem 10 → 11), `README.md` (contagem), `LOG.md`

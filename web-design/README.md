@@ -1,6 +1,6 @@
 # web-design
 
-10 skills para tirar a "cara de IA" de interfaces e sites. Cada pasta é a skill completa, copiada do repositório original (SKILL.md + referências, dados e scripts), sem alterações.
+11 skills para tirar a "cara de IA" de interfaces e sites. Cada pasta é a skill completa, copiada do repositório original (SKILL.md + referências, dados e scripts), sem alterações.
 
 | Pasta | Skill | Fonte original | Commit | Licença |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | `make-interfaces-feel-better/` | Make Interfaces Feel Better | [jakubkrehel/make-interfaces-feel-better](https://github.com/jakubkrehel/make-interfaces-feel-better) | 6d9f2f1 | MIT |
 | `ui-ux-pro-max/` | UI UX Pro Max | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) `.claude/skills/ui-ux-pro-max` | 2de1134 | MIT |
 | `stageshow/` | Stageshow (Benji Taylor) | [benjitaylor/skills](https://github.com/benjitaylor/skills) `stageshow` | 299140f | ver LICENSE na pasta |
+| `tapa-de-ux/` | Tapa de UX (versão PT) | [othiagopinheiro/tapa-de-ux](https://github.com/othiagopinheiro/tapa-de-ux) `plugins/tapa-de-ux/skills/tapa-de-ux` | 555bd87 | CC-BY-4.0 |
 
 ## `_loaders/`
 
