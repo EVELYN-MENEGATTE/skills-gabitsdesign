@@ -44,3 +44,14 @@
 
 **Arquivos alterados**
 - Editado: `LOG.md` (esta entrada)
+
+## 2026-11-19 10:31 (America/Sao_Paulo) — guia de uso das skills
+
+**O que foi feito**
+- Criado `web-design/GUIA.md`: para que serve cada uma das 11 skills e quando usar, organizado no fluxo direção → criar → polir → revisar, com tabela-resumo por tipo de trabalho (landing de cliente, site de marca, app/dashboard, componente animado, mockup) e como chamar cada skill.
+- Definidas as principais por etapa: UI UX Pro Max (direção), Hallmark (sites e landings), Impeccable (apps e dashboards), Make Interfaces Feel Better (polimento), Tapa de UX (revisão). Frontend Design fica como reserva.
+- Adicionado link para o guia nos READMEs.
+
+**Arquivos alterados**
+- Criado: `web-design/GUIA.md`
+- Editados: `web-design/README.md` (link para o guia), `README.md` (link para o guia), `LOG.md`

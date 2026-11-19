@@ -2,6 +2,8 @@
 
 11 skills para tirar a "cara de IA" de interfaces e sites. Cada pasta é a skill completa, copiada do repositório original (SKILL.md + referências, dados e scripts), sem alterações.
 
+**Não sabe qual usar? Veja o [GUIA.md](GUIA.md)**: para que serve cada skill, quando usar e o fluxo direção → criar → polir → revisar.
+
 | Pasta | Skill | Fonte original | Commit | Licença |
 |---|---|---|---|---|
 | `anti-ui-slop/` | Anti UI Slop (UIZZE) | [uizze/uizze](https://github.com/uizze/uizze) `skills/anti-ui-slop` | fc401e9 | Apache-2.0 (ver LICENSE/NOTICE) |
